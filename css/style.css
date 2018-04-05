@@ -499,7 +499,7 @@ body {
   margin: 0 12px 1em;
 }
 .article-header {
-  padding: 10px 10px 0;
+  padding: 20px 10px 0;
 }
 .article-title {
   text-decoration: none;
@@ -658,8 +658,8 @@ a.article-title:hover {
   font-size: 0.85em;
   line-height: 1.6em;
   border-top: 1px solid #ddd;
-  padding-top: 1.6em;
-  margin: 0 10px 10px;
+  padding-top: 1em;
+  margin: 0 10px 20px;
 }
 .article-footer:before,
 .article-footer:after {
@@ -981,7 +981,7 @@ a.article-title:hover {
   text-decoration: none;
   font-size: 0.85em;
   line-height: 1em;
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
   display: block;
 }
 #page-nav {
